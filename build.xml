@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="convos-part1" default="default" basedir=".">
+    <description>Builds, tests, and runs the CONVOS Part 1 project.</description>
+    <import file="nbproject/build-impl.xml"/>
+    <target name="default" depends="jar"/>
+</project>
